@@ -1,0 +1,20 @@
+WARN Service "flink-sql-client" won't be created because 'ports' is not specified
+WARN Service "flink-taskmanager" won't be created because 'ports' is not specified
+WARN Service "ksql-datagen" won't be created because 'ports' is not specified
+WARN Service "ksqldb-cli" won't be created because 'ports' is not specified
+INFO Kubernetes file "broker-service.yaml" created
+INFO Kubernetes file "connect-service.yaml" created
+INFO Kubernetes file "flink-jobmanager-service.yaml" created
+INFO Kubernetes file "ksqldb-server-service.yaml" created
+INFO Kubernetes file "rest-proxy-service.yaml" created
+INFO Kubernetes file "schema-registry-service.yaml" created
+INFO Kubernetes file "broker-deployment.yaml" created
+INFO Kubernetes file "connect-deployment.yaml" created
+INFO Kubernetes file "flink-jobmanager-deployment.yaml" created
+INFO Kubernetes file "flink-sql-client-deployment.yaml" created
+INFO Kubernetes file "flink-taskmanager-deployment.yaml" created
+INFO Kubernetes file "ksql-datagen-deployment.yaml" created
+INFO Kubernetes file "ksqldb-cli-deployment.yaml" created
+INFO Kubernetes file "ksqldb-server-deployment.yaml" created
+INFO Kubernetes file "rest-proxy-deployment.yaml" created
+INFO Kubernetes file "schema-registry-deployment.yaml" created
